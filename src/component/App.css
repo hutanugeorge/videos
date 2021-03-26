@@ -1,0 +1,16 @@
+.video-area{
+    margin-right: 2%;
+    /*margin-left: 5%;*/
+    display: flex;
+}
+.detail{
+    margin: 2% 2% 2% 2%;
+    width:75%;
+}
+.lista{
+    margin-top: 30px;
+    width: 25%;
+}
+.search{
+    margin-top: 20px;
+}
